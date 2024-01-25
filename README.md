@@ -4,7 +4,7 @@ This repository contains an example of running Zap augmented by chalk metadata
 
 ### Prerequisites
 
-Ensure that you have [a valid PAT token] and that you have successfully authenticated
+Ensure that you have [a valid PAT token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) and that you have successfully authenticated
 with github:
 
 ```bash
