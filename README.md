@@ -18,7 +18,7 @@ Login Succeeded
 
 ### Performing a Scan
 
-1. Run `docker docker compose up -d dvwa` to bring up the [damn vulnerable web app](https://github.com/digininja/DVWA)
+1. Run `docker compose up -d dvwa` to bring up the [damn vulnerable web app](https://github.com/digininja/DVWA)
 2. Run `docker compose run --rm zap zap.sh -cmd -autorun /zap/wrk/FullScanTech.yaml`
    to trigger a ZAP scan.
 
